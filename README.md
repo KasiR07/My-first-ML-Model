@@ -36,4 +36,6 @@ Preprocess the data
 # Train the models
 
 # Evaluate and compare results
+![image](https://github.com/user-attachments/assets/1cdfe589-a756-4e95-b505-57c24a25dcdc)
+
 
